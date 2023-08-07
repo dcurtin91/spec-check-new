@@ -4,7 +4,7 @@ import { resolve } from 'path'; // Add this line
 
 export default defineConfig({
   plugins: [react()],
-  base: "/spec-check/",
+  base: "/spec-check-new/",
   build: {
     rollupOptions: {
       input: {
