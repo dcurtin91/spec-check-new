@@ -1,0 +1,85 @@
+.demo {
+  position: absolute;
+  left: 75px;
+}
+
+.demo:hover {
+  color: #13c1ed;
+  cursor: pointer;
+}
+
+.file {
+  margin-top: 35px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 100px;
+}
+
+.finalhz {
+  text-align: center;
+  font-size: 10px;
+  position: absolute;
+  top: 615px;
+  left: 693px;
+}
+
+.frequencies {
+  text-align: center;
+  font-size: 10px;
+  position: absolute;
+  top: 352px;
+  left: 690px;
+}
+
+.initialize {
+  position: absolute;
+  top: 51px;
+  left: 760px;
+}
+
+.player {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.sharescreen {
+  margin-top: 35px;
+  margin-bottom: 51px;
+  margin-left: 35px;
+  font-size: 15px;
+}
+
+.sharebutton {
+  border-width: 1px;
+  cursor: progress;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.sharebutton:hover {
+  background-color: #e5e5e5;
+  cursor: default;
+}
+
+.span {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 20px;
+  background-color: #f7f7f7;
+  border: 2px solid #000000;
+}
+
+.upload {
+  position: absolute;
+  top: 51px;
+  left: 10px;
+}
+
+.visualizer {
+  flex: 1;
+  border: 2px solid rgb(6, 6, 6);
+  background-color: #230c32;
+  align-items: center;
+}
